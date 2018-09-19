@@ -4,7 +4,7 @@ Questions
 
 **1.**
 
- What is an error the message that give much more informative when an exception is caught "FileNotFound ".
+ What is an error the message that give much more informative when an exception is caught "FileNotFound "?
    
    - [ ] File Not Found 
    - [ ] "Bad thing happened" 
@@ -36,8 +36,8 @@ Junit provides to skip the test?
  
  - @Ignore
   
-**4**
-According to PAD Tip 25 *"Write code to be clear, not clever."* , What are two ways to creating a software design. 
+**4.**
+According to PAD Tip 25 *"Write code to be clear, not clever."* , what are two ways to creating a software design? 
 
 **Answer**
 
@@ -45,8 +45,9 @@ According to PAD Tip 25 *"Write code to be clear, not clever."* , What are two w
 
 2.To make the code so complicated that there are no obvious deficiencies.
 
-**5**
-What is TDD (Test Driven Development) and What are the steps of TDD.
+
+**5.**
+What is TDD (Test Driven Development) and what are the steps of TDD?
 
 **Answer**
 
