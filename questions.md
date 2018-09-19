@@ -3,8 +3,7 @@ Questions
 
 
 **1.**
-
- What is an error the message that give much more informative when an exception is caught "FileNotFound "?
+What is an error the message that give much more informative when an exception is caught "FileNotFound "?
    
    - [ ] File Not Found 
    - [ ] "Bad thing happened" 
