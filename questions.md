@@ -3,15 +3,15 @@ Questions
 
 
 **1.**
-What is an error the message that give much more informative when an exception is caught "FileNotFound "?
+If you commit the incorrect file and you want to remove this commit, which is the command for solving the problem. 
    
-   - [ ] File Not Found 
-   - [ ] "Bad thing happened" 
-   - [ ] Can’t open /isp/main.java
-   - [ ] FileNotFoundException
+   - [ ] close terminal 
+   - [ ] git reset 
+   - [ ] git reset --hard HEAD^
+   - [ ] git rm file
 
 **Answer**
-  - [x] Can’t open /isp/main.java 
+  - [x] git reset --hard HEAD^ 
 
 **2.**
 In many organizations, development and testing teams play a blame game and create tension between the teams.
@@ -28,7 +28,7 @@ Reference: <a href="https://smartbear.com/blog/develop/the-seven-habits-of-highl
      </a>
 
 **3.**
-If you want to running a test case, but some of your code are not done. What annotation that 
+If you want to run a test case, but some of your code are not done. What annotation that 
 Junit provides to skip the test?
  
  **Answer**
